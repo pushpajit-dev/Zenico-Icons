@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Zenico Vector Logo: Stylized Z Hexagon Mark in Crisp Inverted White -->
+    <path
+        android:pathData="M54,22 L84,39 L84,69 L54,86 L24,69 L24,39 Z"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:pathData="M38,40 L70,40 L38,68 L70,68"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:pathData="M54,48 L58,54 L54,60 L50,54 Z"
+        android:fillColor="#FFFFFFFF"/>
+</vector>

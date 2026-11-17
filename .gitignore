@@ -1,0 +1,23 @@
+# Android / Flutter / Web standard ignores
+.idea/
+*.iml
+# Added safety ignores
+*.apk
+*.aab
+*.jks
+*.keystore
+local.properties
+key.properties
+.env
+.env.local
+.env.production
+*firebase-adminsdk*.json
+credentials.json
+*.pem
+*.p12
+.gradle/
+build/
+app/build/
+.dart_tool/
+.cxx/
+node_modules/
